@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Darius Dima</h1>
-<h3 align="center">A passionate developer from Romania</h3>
+<h3 align="center">
+  - I'm working as a software engineer.
+- 👀 I’m interested in:
+  - 🌱 Self Development: brain development, thinking skills, learning, productivity, innovation, entrepreneurship ...
+  - :computer: IT and Tech: software development, robotics :heart:, artificial inteligence, cool tech in general ...
+  - :violin: Hobbies: cycling, bouldering, crafting something (DIY projects, 3D CAD Modeling, Arduino) ...
+- This GitHub account is for professional personal projects (mostly private repos) !
+- You might like to checkout my [Hobby projects github account](https://github.com/24Arys11) :wink:
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darius-dima&label=Profile%20views&color=0e75b6&style=flat" alt="darius-dima" /> </p>
 
@@ -22,16 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darius-dima&" alt="darius-dima" /></p>
 
 
-
-
-- 👋 Hi, I’m Darius Dima !
-- I'm working as a software engineer.
-- 👀 I’m interested in:
-  - 🌱 Self Development: brain development, thinking skills, learning, productivity, innovation, entrepreneurship ...
-  - :computer: IT and Tech: software development, robotics :heart:, artificial inteligence, cool tech in general ...
-  - :violin: Hobbies: cycling, bouldering, crafting something (DIY projects, 3D CAD Modeling, Arduino) ...
-- This GitHub account is for professional personal projects (mostly private repos) !
-- You might like to checkout my [Hobby projects github account](https://github.com/24Arys11) :wink:
 
 <!---
 darius-dima/darius-dima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
